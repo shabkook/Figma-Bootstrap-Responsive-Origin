@@ -1,0 +1,10 @@
+@import "/css/setting.css";
+@import "./mobile/mobile.css" only screen and (min-width: 0px);
+@import "./desktop/Home/desktop.css" only screen and (min-width: 1000px);
+@import "./desktop/blog/blog-link.css" only screen and (min-width: 1000px);
+@import "./desktop/contactus/contactus-link.css" only screen and (min-width: 1000px);
+@import "./desktop/privacy/privacy-link.css" only screen and (min-width: 1000px);
+@import "./desktop/readblog/readblog-link.css" only screen and (min-width: 1000px);
+@import "./desktop/pricing/pricing-link.css" only screen and (min-width: 1000px);
+@import "./desktop/features/features-link.css" only screen and (min-width: 1000px);
+
